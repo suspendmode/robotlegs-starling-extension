@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<flexLibProperties includeAllClasses="true" useMultiPlatformConfig="false" version="3">
+  <includeClasses>
+    <classEntry path="robotlegs.extensions.starling.StarlingExtension"/>
+    <classEntry path="robotlegs.extensions.starling.api.IStarlingViewMap"/>
+    <classEntry path="robotlegs.extensions.starling.impl.Multiresolution"/>
+    <classEntry path="robotlegs.extensions.starling.impl.StarlingConfig"/>
+    <classEntry path="robotlegs.extensions.starling.impl.StarlingMediator"/>
+    <classEntry path="robotlegs.extensions.starling.impl.StarlingRoot"/>
+    <classEntry path="robotlegs.extensions.starling.impl.StarlingViewMap"/>
+    <classEntry path="robotlegs.extensions.starling.utils.DeviceCapabilities"/>
+  </includeClasses>
+  <includeResources/>
+  <namespaceManifests/>
+</flexLibProperties>
